@@ -10,11 +10,10 @@ A Python-based university enrollment system that allows students to log in, enro
 
 | Name | Student ID |
 |------|------------|
-| Member 1 | xxxxxxxx |
-| Member 2 | xxxxxxxx |
-| Member 3 | xxxxxxxx |
-
-> *(Replace with actual names and student IDs)*
+| Santhosh Ramachandran | 26053850|
+| Ngoc Manh Nguyen | 26312049|
+| James An | 11393372 |
+| Yanfei Tao| 26295509 |
 
 ---
 
