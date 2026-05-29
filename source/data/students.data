@@ -1,0 +1,275 @@
+{
+    "students": [
+        {
+            "student_id": "100001",
+            "name": "Manh Nguyen",
+            "email": "manh@university.com",
+            "password": "Manhx1234",
+            "subjects": [
+                {
+                    "subject_id": "627",
+                    "marks": 54,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "773",
+                    "marks": 78,
+                    "grade": "D"
+                },
+                {
+                    "subject_id": "215",
+                    "marks": 60,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "388",
+                    "marks": 69,
+                    "grade": "C"
+                }
+            ]
+        },
+        {
+            "student_id": "100002",
+            "name": "James An",
+            "email": "james@university.com",
+            "password": "James12345",
+            "subjects": [
+                {
+                    "subject_id": "488",
+                    "marks": 45,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "787",
+                    "marks": 62,
+                    "grade": "P"
+                }
+            ]
+        },
+        {
+            "student_id": "100003",
+            "name": "John Smith",
+            "email": "john@university.com",
+            "password": "JohnNguyen1234",
+            "subjects": []
+        },
+        {
+            "student_id": "100004",
+            "name": "Yanfei Tao",
+            "email": "yanfei@university.com",
+            "password": "Yanfei123",
+            "subjects": [
+                {
+                    "subject_id": "697",
+                    "marks": 59,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "990",
+                    "marks": 33,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "196",
+                    "marks": 88,
+                    "grade": "HD"
+                }
+            ]
+        },
+        {
+            "student_id": "100005",
+            "name": "Santhosh Ramachandran",
+            "email": "santhosh@university.com",
+            "password": "Santhosh1234",
+            "subjects": [
+                {
+                    "subject_id": "990",
+                    "marks": 73,
+                    "grade": "C"
+                },
+                {
+                    "subject_id": "937",
+                    "marks": 90,
+                    "grade": "HD"
+                },
+                {
+                    "subject_id": "687",
+                    "marks": 47,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "047",
+                    "marks": 50,
+                    "grade": "P"
+                }
+            ]
+        },
+        {
+            "student_id": "100006",
+            "name": "Sophia Wilson",
+            "email": "sophia@university.com",
+            "password": "Sophia1234",
+            "subjects": [
+                {
+                    "subject_id": "345",
+                    "marks": 81,
+                    "grade": "D"
+                },
+                {
+                    "subject_id": "345",
+                    "marks": 77,
+                    "grade": "D"
+                },
+                {
+                    "subject_id": "573",
+                    "marks": 83,
+                    "grade": "D"
+                }
+            ]
+        },
+        {
+            "student_id": "100007",
+            "name": "David Lee",
+            "email": "david@university.com",
+            "password": "David123",
+            "subjects": []
+        },
+        {
+            "student_id": "100008",
+            "name": "Olivia Martin",
+            "email": "olivia@university.com",
+            "password": "Olivia123",
+            "subjects": [
+                {
+                    "subject_id": "331",
+                    "marks": 52,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "381",
+                    "marks": 35,
+                    "grade": "Z"
+                }
+            ]
+        },
+        {
+            "student_id": "100009",
+            "name": "James Anderson",
+            "email": "jamesanderson@university.com",
+            "password": "James123",
+            "subjects": []
+        },
+        {
+            "student_id": "100010",
+            "name": "Isabella Thomas",
+            "email": "isabella@university.com",
+            "password": "Isabella12345",
+            "subjects": [
+                {
+                    "subject_id": "224",
+                    "marks": 41,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "373",
+                    "marks": 39,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "435",
+                    "marks": 89,
+                    "grade": "HD"
+                },
+                {
+                    "subject_id": "475",
+                    "marks": 93,
+                    "grade": "HD"
+                }
+            ]
+        },
+        {
+            "student_id": "199768",
+            "name": "Norman Nguyen",
+            "email": "NormanNguyen@university.com",
+            "password": "Norman1212",
+            "subjects": [
+                {
+                    "subject_id": "927",
+                    "marks": 60,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "458",
+                    "marks": 52,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "638",
+                    "marks": 98,
+                    "grade": "HD"
+                },
+                {
+                    "subject_id": "344",
+                    "marks": 98,
+                    "grade": "HD"
+                }
+            ]
+        },
+        {
+            "student_id": "245158",
+            "name": "GNoc Manh",
+            "email": "ngoc.manh@university.com",
+            "password": "Gounad1234",
+            "subjects": [
+                {
+                    "subject_id": "463",
+                    "marks": 74,
+                    "grade": "C"
+                },
+                {
+                    "subject_id": "087",
+                    "marks": 45,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "613",
+                    "marks": 51,
+                    "grade": "P"
+                },
+                {
+                    "subject_id": "512",
+                    "marks": 50,
+                    "grade": "P"
+                }
+            ]
+        },
+        {
+            "student_id": "393775",
+            "name": "Norman Nguyen",
+            "email": "norman.ngoc@university.com",
+            "password": "Norman1234",
+            "subjects": [
+                {
+                    "subject_id": "914",
+                    "marks": 68,
+                    "grade": "C"
+                },
+                {
+                    "subject_id": "571",
+                    "marks": 35,
+                    "grade": "Z"
+                },
+                {
+                    "subject_id": "087",
+                    "marks": 84,
+                    "grade": "D"
+                },
+                {
+                    "subject_id": "750",
+                    "marks": 48,
+                    "grade": "Z"
+                }
+            ]
+        }
+    ]
+}
